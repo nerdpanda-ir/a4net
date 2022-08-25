@@ -1,0 +1,36 @@
+nav.topnav{
+  height: 44px;
+}
+nav.topnav ul li{
+  display: inline-block;
+  height: 100%;
+  margin-left: 8px;
+}
+nav.topnav ul li a{
+  font-size: 13px !important;
+  color: #555;
+  display: inline-block;
+  height: inherit;
+  line-height: 44px;
+  padding: 0 15px;
+}
+
+nav.topnav ul li a i {
+  font-size: 18px;
+  position: relative;
+  bottom: 3px;
+  margin-left: 5px;
+}
+nav.topnav a:hover{
+  color: #000;
+  background: #d8d8d8;
+}
+nav.topnav strong.textmenu{
+  vertical-align: 6px;
+  margin-right: 4px;
+}
+.logotext h1{
+  font-size: 22px;
+  margin-top: 4px;
+  letter-spacing: 8px;
+}

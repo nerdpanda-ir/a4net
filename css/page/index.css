@@ -1,0 +1,9 @@
+@import url("../lib/bootstrap.css");
+@import url("../components/header/header.css");
+.searchfield_wrapper i {
+    color: white;
+    font-size: 18px;
+}
+.counterpart i {
+    font-size: 45px;
+}

@@ -1,0 +1,30 @@
+.megamenu{
+  height: 46px;
+  border-bottom: 2px solid #c8c8c8;
+}
+.listwapper:hover{
+  background:#d8d8d8;
+}
+.wrappertextmenu{
+  font-size: 13px;
+  padding: 10px 10px 10px 20px;
+  background: url("../../../../img/megamenu/down.png") no-repeat 5px center/12px 12px;
+}
+.wrappertextmenu:hover{
+    background: url("../../../../img/megamenu/up.png") no-repeat 5px center/12px 12px;
+}
+.textmenu{
+  vertical-align: 8px;
+  color: #000;
+  margin-left: 8px;
+}
+.submenu1{
+  top: 100%;
+}
+.megamenu i {
+  font-size: 20px;
+  margin-left: 8px;
+  position: relative;
+  bottom: 4px;
+  color: rgb(44, 44, 44);
+}

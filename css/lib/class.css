@@ -1,0 +1,72 @@
+@import url("font-classes/font-classes.css");
+body{
+    direction: rtl;
+  }
+/*box defult styls*/
+  .border0
+{
+    border: 0;
+  }
+  .container{
+    width:1200px;
+    margin: 0 auto;
+  }
+  .display_inbl{
+    display: inline-block;
+  }
+  .displaybl{
+    display: block;
+  }.disinline{
+    display: inline;
+  }
+  .height100{
+    height: 100%;
+  }
+  .heightinherit{
+    height: inherit;
+  }
+  .width100{
+    width: 100%;
+  }
+  .flleft{
+    float: left;
+  }
+  .clearboth{
+    clear: both;
+  }
+  .posrel{position: relative;}
+  .posab{
+    position: absolute;
+  }
+  .boxsizing{
+    box-sizing: border-box;
+  }
+/*box defult styls*/
+/*color and background */
+  .graylight_back{
+    background:#efefef;
+  }
+  .graycolordark{color:#555;}
+  .whitecolor{color: #fff;}
+  .whiteback{
+    background: #fff;
+  }
+  .greencolor{
+    color:#27ae60;
+  }
+  .backtransparent{
+    background: transparent;
+  }
+  .boldmed{
+    font-weight: 600;
+  }
+/*color and background*/
+/*element*/
+  a{
+    text-decoration: none !important;
+  }
+  .textcenter{
+    text-align: center;
+  }
+
+/*element*/
